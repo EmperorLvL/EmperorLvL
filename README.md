@@ -7,7 +7,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/12221569/57069793-a9e2c600-6ce6-11e9-96f1-4927bd5d48a4.png" />

@@ -1,6 +1,6 @@
 
 
-## Projects ##
+## 🛠 Projects 🛠 ##
 - 🚗 Single Player Mods for Grand Theft Auto V
 - 🌵 Single Player Mods for Red Dead Redemption II
 - 🤖 Discord Bot Development

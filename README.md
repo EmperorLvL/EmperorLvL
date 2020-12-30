@@ -9,7 +9,7 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emperorlvl&layout=compact" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emperorlvl&layout=compact"/>
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&labelColor=444)
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&labelColor=444)

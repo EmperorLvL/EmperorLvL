@@ -15,4 +15,3 @@
 ![C](https://img.shields.io/badge/-C%20Lang-lightgrey?style=flat&logo=c&labelColor=444)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=mysql&labelColor=444)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&labelColor=444)
